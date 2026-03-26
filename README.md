@@ -4,3 +4,13 @@
 
 
 spyk3 bolt
+
+# How to clone the rop
+```bash
+git clone https://github.com/Iankulani/spyk3-bolt.git
+cd spyk3-bolt
+```
+# How to run
+```bash
+python spyk3-bolt.py
+```
