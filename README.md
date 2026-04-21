@@ -14,3 +14,7 @@ cd spyk3-bolt
 ```bash
 python spyk3-bolt.py
 ```
+
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Iankulani/spyk3-bolt&type=Date)](https://star-history.com/#Iankulani/spyk3-bolt&Date)
